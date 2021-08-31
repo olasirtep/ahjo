@@ -1,7 +1,7 @@
 Ahjo Framework
 ====================
 
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ahjo)](https://pypi.org/project/ahjo/) [![PyPI](https://img.shields.io/pypi/v/ahjo)](https://pypi.org/project/ahjo/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ahjo)](https://pypi.org/project/ahjo/) [![PyPI](https://img.shields.io/pypi/v/ahjo)](https://pypi.org/project/ahjo/) [![Updates](https://pyup.io/repos/github/olasirtep/ahjo/shield.svg)](https://pyup.io/repos/github/olasirtep/ahjo/) [![Python 3](https://pyup.io/repos/github/olasirtep/ahjo/python-3-shield.svg)](https://pyup.io/repos/github/olasirtep/ahjo/)
 
 # Description
 
